@@ -8,11 +8,13 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-- Please run `npm run dev` to build the solution and run it in your browser.
+## Instructions
+
+- Please run `npm run dev` to build the solution and run it in your browser, (`http://localhost:3000/`)
 - Edited styles
   - CSS nesting
   - CSS variables
 - Saved duplication on usePrevious function.
-- Grabbed user's name for visual reference.
+- Grabbed user's name for improved visual reference.
 
 Simple todo list using React, completed by Tasha Rolland.
